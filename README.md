@@ -37,6 +37,22 @@
 
 ---
 
+## 📷 Capturas de pantalla
+
+### Página de Inicio
+![Inicio](/imagen/sección-inicio.png)
+
+## Página alta
+![Alta](/imagen/sección-alta.png)
+
+### Listado de Pinturas
+![Listado](/imagen/sección-listado.png)
+
+### Estadísticas
+![Estadísticas](/imagen/sección-estadisticas.png)
+
+---
+
 
 ## 📦 Instalación
 
