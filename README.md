@@ -40,16 +40,16 @@
 ## 📷 Capturas de pantalla
 
 ### Página de Inicio
-![Inicio](/imagen/sección-inicio.png)
+![Inicio](/img/sección-inicio.png)
 
 ## Página alta
-![Alta](/imagen/sección-alta.png)
+![Alta](/img/sección-alta.png)
 
 ### Listado de Pinturas
-![Listado](/imagen/sección-listado.png)
+![Listado](/img/sección-listado.png)
 
 ### Estadísticas
-![Estadísticas](/imagen/sección-estadisticas.png)
+![Estadísticas](/img/sección-estadisticas.png)
 
 ---
 
